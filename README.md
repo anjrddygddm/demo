@@ -58,7 +58,7 @@ LangChain | AWS Bedrock | RAG | LLMs | Scikit-Learn | Pandas
 ## 🏛️ Architecture & Infrastructure
 - Automated ETL pipeline deployment (Prefect + ArgoCD)
 - Microservices identification with Architecture team
-- Auto-deployed Grafana Dashboards (GitHubApps)
+- Auto-deployable (Codefirst) Grafana Dashboards (GitOps)
 - Legacy migration to distributed architectures
 - Observability via OpenTelemetry, Prometheus, Grafana
 - Requirement Execution Tracker (end-to-end)
