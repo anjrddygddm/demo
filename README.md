@@ -19,7 +19,7 @@ Staff Software Engineer with 10+ years experience building web and AI-powered ap
 - Domain Driven Design, microservices, CQRS
 - LLM-based automation tools & real-time data pipelines (Prefect, SSIS)
 - Automated complex report generations
-- Python, .NET, AWS, Azure, GCP, Data Engineering
+- Web Application Development, Data Engineering, Database Optimiations
 - Translating business requirements into robust solutions
 
 ---
